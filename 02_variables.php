@@ -51,6 +51,9 @@ is_bool($isMale); // true
 is_double($height); // true
 
 // 9. Check if variable is defined
+echo '>>>>>>>>>>>>';
+echo isset($name);
+echo isset($name222);
 var_dump(isset($name));
 var_dump(isset($name2));
 echo '<br>';

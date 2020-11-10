@@ -8,7 +8,21 @@
   <title>Document</title>
 </head>
 <body>
-Hello World
+Hello World Hi
 <!--Echo HTML tags-->
 </body>
 </html>
+
+<?php
+//output hello world
+echo "<br>PHP Hello World";
+
+/*
+    Multiple
+    line comment
+*/
+
+//variables
+
+echo ""
+?>
